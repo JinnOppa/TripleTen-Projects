@@ -1,15 +1,10 @@
 # TripleTen-Projects
 
-# Data Science Journey
-
-This repository contains all the projects from my data science journey.
-
-## Projects
-
+This repository contains various data science and machine learning projects from the Tripleten Course aimed at solving real-world business problems for existing companies across different industries. Each project focuses on a unique problem statement provided by these companies and applies analytical and predictive modeling techniques to derive insights and build solutions. The descriptions below give an overview of each project and its objectives.
 
 | Project Name                      | Description                       |
 |-----------------------------------|-----------------------------------|
-| Y.Music Preferences Analysis | Analyze and compare music preferences of listeners in Springfield and Shelbyville using Y.Music data to test specific hypotheses about user behavior and genre preferences. |
+| Y.Music Preferences Analysis | Analyze and compare listeners' music preferences in Springfield and Shelbyville using Y.Music data to test specific hypotheses about user behavior and genre preferences. |
 | Bank Credit Scoring Analysis | Investigating the influence of a customer's marital status and number of children on the probability of defaulting on a loan repayment. |
 | Crankshaft List Car Price Analysis | Understanding the data collected over the past few years to determine the factors influencing the price of a vehicle. |
 | Megaline Telecom Plan Profitability Analysis | Analyze customer behavior and determine which prepaid plan brings in more revenue. |
