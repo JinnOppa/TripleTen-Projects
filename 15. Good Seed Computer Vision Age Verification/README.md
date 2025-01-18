@@ -77,7 +77,7 @@ To run the project, follow these steps:
 2. **Install required libraries**:
    - Open a terminal and install the necessary Python libraries:
      ```bash
-     pip install tensorflow keras opencv-python-headless pandas numpy matplotlib seaborn streamlit
+     pip install tensorflow keras opencv-python-headless pandas numpy matplotlib seaborn
      ```
 3. **Train the Model**:
    - Run the training script to train and save the model:
